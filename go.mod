@@ -1,4 +1,4 @@
-module ctint-common-lib
+module github.com/kelvinchan703/test-module
 
 go 1.21.5
 
